@@ -1,11 +1,12 @@
 <div align="left">
 
-# Hello, My name is Nick!
+# My name is Nick
 
-Nice to meet you. I have been programming for quite a time, feel free to contact me.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=125&color=BC51D3&multiline=true&width=500&height=75&lines=Hello!+Nice+to+meet+you.;I+have+been+programming+for+quite+a+time.;Feel+free+to+contact+me.)](https://git.io/typing-svg)
 
-Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)).
+Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)). 
 
+Drop me a line if you are interested in collaboration and partnership, I can be a **developer**, a **team leader** or a **consultant**.
 I also have some teaching experience, so you may ask me for **mentoring**.
 
 My development notes are located at [programming.technology](https://programming.technology/), but there are not so many articles there yet.
