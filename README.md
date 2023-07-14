@@ -4,12 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=125&color=BC51D3&multiline=true&width=500&height=75&lines=Hello!+Nice+to+meet+you.;I+have+been+programming+for+quite+a+time.;Feel+free+to+contact+me.)](https://git.io/typing-svg)
 
-Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)). 
-
-Drop me a line if you are interested in collaboration and partnership, I can be a **developer**, a **team leader** or a **consultant**.
+Drop me a line if you are interested in collaboration and partnership.
+I can be a **developer**, a **team leader** or a **consultant**.
 I also have some teaching experience, so you may ask me for **mentoring**.
-
-My development notes are located at [programming.technology](https://programming.technology/), but there are not so many articles there yet.
 
 ## My current interests are
 
@@ -18,6 +15,10 @@ My development notes are located at [programming.technology](https://programming
 <img src="https://img.shields.io/badge/Websites-fcbf49?style=flat-square" height=24 />
 <img src="https://img.shields.io/badge/Data_visuzlization-1cb08f?style=flat-square" height=24 />
 <img src="https://img.shields.io/badge/Computer_graphics-d62828?style=flat-square" height=24 />
+
+Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)). 
+
+My development notes are located at [programming.technology](https://programming.technology/), but there are not so many articles there yet.
 
 <!--
 #33007b
