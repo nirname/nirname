@@ -20,8 +20,6 @@ I also have some teaching experience, so you may ask me for **mentoring**.
 
 Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)). 
 
-My development notes are located at [programming.technology](https://programming.technology/), but there are not so many articles there yet.
-
 <!--
 #33007b
 #8300c4
