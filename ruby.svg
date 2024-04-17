@@ -1,14 +1,12 @@
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
 <style>
-        .letters { fill: #2E2E2E; }
-
         @media (prefers-color-scheme: dark) {
-            html[data-color-mode="auto"] .letters {
+            html[data-color-mode="auto"] {
                 fill: #ffffff;
             }
         }
 
-        html[data-color-mode="dark"] .letters, {
+        html[data-color-mode="dark"] {
             fill: #ffffff;
         }
     </style>
