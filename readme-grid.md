@@ -148,7 +148,7 @@ I also love **C++** and **C#**. -->
   <div class="tile"><img src="https://simpleicons.org/icons/javascript.svg"/> Javascript</div>
   <div class="tile"><img src="https://simpleicons.org/icons/visualstudiocode.svg"/> VS Code</div>
   <div class="tile"><img src="https://simpleicons.org/icons/githubactions.svg"/> Github Actions</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/traefikproxy.svg"/> Traefikproxy</div>
+  <div class="tile"><img src="https://simpleicons.org/icons/traefikproxy.svg"/> Traefik</div>
   <div class="tile"><img src="https://simpleicons.org/icons/nomad.svg"/> Nomad</div>
   <div class="tile"><img src="https://simpleicons.org/icons/terraform.svg"/> Terraform</div>
   <div class="tile"><img src="https://simpleicons.org/icons/ansible.svg"/> Ansible</div>
