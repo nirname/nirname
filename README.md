@@ -22,37 +22,38 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 
 ## Skills
 
-<p float="left">
-<div><img src="https://simpleicons.org/icons/ruby.svg"             style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/rubyonrails.svg"      style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/react.svg"            style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/git.svg"              style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/docker.svg"           style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/postgresql.svg"       style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/redis.svg"            style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/nginx.svg"            style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/linux.svg"            style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/github.svg"           style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/circleci.svg"         style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/rabbitmq.svg"         style="width: 30px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/apachekafka.svg"      style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/go.svg"               style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/c.svg"                style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/cplusplus.svg"        style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/csharp.svg"           style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/visualstudiocode.svg" style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/traefikproxy.svg"     style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/nomad.svg"            style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/terraform.svg"        style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/ansible.svg"          style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/d3dotjs.svg"          style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/swagger.svg"          style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/k6.svg"               style="width: 50px; height: 50px;">Тext</img></div>
-<div><img src="https://simpleicons.org/icons/apache.svg"           style="width: 50px; height: 50px;">Тext</img></div>
-</p>
+![Fancy logo](./dark.png#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
+
+<img src="https://simpleicons.org/icons/ruby.svg"             style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/rubyonrails.svg"      style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/react.svg"            style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/git.svg"              style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/docker.svg"           style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/postgresql.svg"       style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/redis.svg"            style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/nginx.svg"            style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/linux.svg"            style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/github.svg"           style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/circleci.svg"         style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/rabbitmq.svg"         style="width: 30px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/apachekafka.svg"      style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/go.svg"               style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/c.svg"                style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/cplusplus.svg"        style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/csharp.svg"           style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/traefikproxy.svg"     style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/nomad.svg"            style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/terraform.svg"        style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/ansible.svg"          style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/d3dotjs.svg"          style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/swagger.svg"          style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/k6.svg"               style="width: 50px; height: 50px;"/>
+<img src="https://simpleicons.org/icons/apache.svg"           style="width: 50px; height: 50px;"/>
 
 </div>
