@@ -22,39 +22,37 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 
 ## Skills
 
-<img src="apacheant-color.svg" alt="Apache Ant" height="80" width="80" />
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/ruby.svg"             style="width: 50px; height: 50px;"> <figcaption>Ruby</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/rubyonrails.svg"      style="width: 50px; height: 50px;"> <figcaption>Ruby on Rails</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;"> <figcaption>JavaScript</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/react.svg"            style="width: 50px; height: 50px;"> <figcaption>React</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/git.svg"              style="width: 50px; height: 50px;"> <figcaption>Git</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/docker.svg"           style="width: 50px; height: 50px;"> <figcaption>Docker</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/postgresql.svg"       style="width: 50px; height: 50px;"> <figcaption>Postgres</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/redis.svg"            style="width: 50px; height: 50px;"> <figcaption>Redis</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/nginx.svg"            style="width: 50px; height: 50px;"> <figcaption>NGinx</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/linux.svg"            style="width: 50px; height: 50px;"> <figcaption>Linux</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/github.svg"           style="width: 50px; height: 50px;"> <figcaption>Github</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;"> <figcaption>Github Actions</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/circleci.svg"         style="width: 50px; height: 50px;"> <figcaption>Circle CI</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/rabbitmq.svg"         style="width: 50px; height: 50px;"> <figcaption>Rabbit MQ</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/apachekafka.svg"      style="width: 50px; height: 50px;"> <figcaption>Apache Kafka</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/go.svg"               style="width: 50px; height: 50px;"> <figcaption>Go</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/c.svg"                style="width: 50px; height: 50px;"> <figcaption>C</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/cplusplus.svg"        style="width: 50px; height: 50px;"> <figcaption>C++</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/csharp.svg"           style="width: 50px; height: 50px;"> <figcaption>C#</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;"> <figcaption>Javascript</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" style="width: 50px; height: 50px;"> <figcaption>VS Code</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;"> <figcaption>Github Actions</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/traefikproxy.svg"     style="width: 50px; height: 50px;"> <figcaption>Traefik</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/nomad.svg"            style="width: 50px; height: 50px;"> <figcaption>Nomad</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/terraform.svg"        style="width: 50px; height: 50px;"> <figcaption>Terraform</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/ansible.svg"          style="width: 50px; height: 50px;"> <figcaption>Ansible</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/d3dotjs.svg"          style="width: 50px; height: 50px;"> <figcaption>D3</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/swagger.svg"          style="width: 50px; height: 50px;"> <figcaption>Swagger</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/k6.svg"               style="width: 50px; height: 50px;"> <figcaption>K6</figcaption> </figure>
-  <figure style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/apache.svg"           style="width: 50px; height: 50px;"> <figcaption>Apache Benchmark</figcaption> </figure>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; gap: 20px;">
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/ruby.svg"             style="width: 50px; height: 50px;">  <div>Ruby             </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/rubyonrails.svg"      style="width: 50px; height: 50px;">  <div>Ruby on Rails    </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;">  <div>JavaScript       </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/react.svg"            style="width: 50px; height: 50px;">  <div>React            </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/git.svg"              style="width: 50px; height: 50px;">  <div>Git              </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/docker.svg"           style="width: 50px; height: 50px;">  <div>Docker           </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/postgresql.svg"       style="width: 50px; height: 50px;">  <div>Postgres         </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/redis.svg"            style="width: 50px; height: 50px;">  <div>Redis            </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/nginx.svg"            style="width: 50px; height: 50px;">  <div>NGinx            </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/linux.svg"            style="width: 50px; height: 50px;">  <div>Linux            </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/github.svg"           style="width: 50px; height: 50px;">  <div>Github           </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;">  <div>Github Actions   </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/circleci.svg"         style="width: 50px; height: 50px;">  <div>Circle CI        </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/rabbitmq.svg"         style="width: 30px; height: 50px;">  <div>Rabbit MQ        </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/apachekafka.svg"      style="width: 50px; height: 50px;">  <div>Apache Kafka     </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/go.svg"               style="width: 50px; height: 50px;">  <div>Go               </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/c.svg"                style="width: 50px; height: 50px;">  <div>C                </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/cplusplus.svg"        style="width: 50px; height: 50px;">  <div>C++              </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/csharp.svg"           style="width: 50px; height: 50px;">  <div>C#               </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/javascript.svg"       style="width: 50px; height: 50px;">  <div>Javascript       </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/visualstudiocode.svg" style="width: 50px; height: 50px;">  <div>VS Code          </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/githubactions.svg"    style="width: 50px; height: 50px;">  <div>Github Actions   </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/traefikproxy.svg"     style="width: 50px; height: 50px;">  <div>Traefik          </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/nomad.svg"            style="width: 50px; height: 50px;">  <div>Nomad            </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/terraform.svg"        style="width: 50px; height: 50px;">  <div>Terraform        </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/ansible.svg"          style="width: 50px; height: 50px;">  <div>Ansible          </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/d3dotjs.svg"          style="width: 50px; height: 50px;">  <div>D3               </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/swagger.svg"          style="width: 50px; height: 50px;">  <div>Swagger          </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/k6.svg"               style="width: 50px; height: 50px;">  <div>K6               </div></div>
+  <div style="width: 80px; height: 80px;"> <img src="https://simpleicons.org/icons/apache.svg"           style="width: 50px; height: 50px;">  <div>Apache Benchmark </div></div>
 </div>
 
 </div>
