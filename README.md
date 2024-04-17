@@ -45,11 +45,17 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 <img src="./icons/redis-color.svg"            style="width: 50px; height: 50px;"/> Redis            
 <img src="./icons/nginx-color.svg"            style="width: 50px; height: 50px;"/> NGinx            
 <img src="./icons/linux-color.svg"            style="width: 50px; height: 50px;"/> Linux            
-<img src="./icons/github-color.svg"           style="width: 50px; height: 50px;"/> Github           
+<img src="./icons/github-light.svg#gh-light-mode-only"           style="width: 50px; height: 50px;"/>
+<img src="./icons/github-dark.svg#gh-dark-mode-only"           style="width: 50px; height: 50px;"/>
+Github           
 <img src="./icons/githubactions-color.svg"    style="width: 50px; height: 50px;"/> Github Actions   
-<img src="./icons/circleci-color.svg"         style="width: 50px; height: 50px;"/> Circle CI        
-<img src="./icons/rabbitmq-color.svg"         style="width: 30px; height: 50px;"/> Rabbit MQ        
-<img src="./icons/apachekafka-color.svg"      style="width: 50px; height: 50px;"/> Apache Kafka     
+<img src="./icons/circleci-light.svg#gh-light-mode-only"         style="width: 50px; height: 50px;"/>
+<img src="./icons/circleci-dark.svg#gh-dark-mode-only"         style="width: 50px; height: 50px;"/>
+Circle CI        
+<img src="./icons/rabbitmq-color.svg"         style="width: 50px; height: 50px;"/> Rabbit MQ        
+<img src="./icons/apachekafka-light.svg#gh-light-mode-only"      style="width: 50px; height: 50px;"/>
+<img src="./icons/apachekafka-dark.svg#gh-dark-mode-only"      style="width: 50px; height: 50px;"/>
+Apache Kafka     
 <img src="./icons/go-color.svg"               style="width: 50px; height: 50px;"/> Go               
 <img src="./icons/c-color.svg"                style="width: 50px; height: 50px;"/> C                
 <img src="./icons/cplusplus-color.svg"        style="width: 50px; height: 50px;"/> C++              
