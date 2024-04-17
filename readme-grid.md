@@ -5,7 +5,7 @@
     grid-gap: 10px;
   }
 
-  .grid > .tile {
+  .grid .tile {
     width: 100%;
     text-align: center;
     /* background-color: #f0f0f0; */
@@ -16,15 +16,18 @@
     align-items: center;
   }
 
-  .tile > img {
+  .gird .tile img {
     vertical-align: center;
     width: 40px;
     height: 40px;
     margin: 5px;
   }
+  .dark .tile img {
+    filter: invert(1);
+  }
 </style>
 
-<div align="left">
+<div align="left" class="dark">
 
 # My name is Nick
 
@@ -126,36 +129,36 @@ I also love **C++** and **C#**. -->
 
 
 <div class="grid">
-  <div class="tile"><img src="https://simpleicons.org/icons/ruby.svg"/> Ruby</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/rubyonrails.svg"/> Ruby on Rails</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/javascript.svg"/> JavaScript</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/react.svg"/> React</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/git.svg"/> Git</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/docker.svg"/> Docker</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/postgresql.svg"/> Postgres</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/redis.svg"/> Redis</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/nginx.svg"/> NGinx</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/linux.svg"/> Linux</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/github.svg"/> Github</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/githubactions.svg"/>Github Actions</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/circleci.svg"/> Circle CI</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/rabbitmq.svg"/> Rabbit MQ</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/apachekafka.svg"/> Apache Kafka</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/go.svg"/> Go</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/c.svg"/> C</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/cplusplus.svg"/> C++</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/csharp.svg"/> C#</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/javascript.svg"/> Javascript</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/visualstudiocode.svg"/> VS Code</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/githubactions.svg"/> Github Actions</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/traefikproxy.svg"/> Traefik</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/nomad.svg"/> Nomad</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/terraform.svg"/> Terraform</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/ansible.svg"/> Ansible</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/d3dotjs.svg"/> D3dotjs</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/swagger.svg"/> Swagger</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/k6.svg"/> K6</div>
-  <div class="tile"><img src="https://simpleicons.org/icons/apache.svg"/> Apache Benchmark</div>
+  <div class="tile"><img src="https://simpleicons.org/icons/ruby.svg"/>                 Ruby </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/rubyonrails.svg"/>          Ruby on Rails </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/javascript.svg"/>           JavaScript </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/react.svg"/>                React </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/git.svg"/>                  Git </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/docker.svg"/>               Docker </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/postgresql.svg"/>           Postgres </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/redis.svg"/>                Redis </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/nginx.svg"/>                NGinx </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/linux.svg"/>                Linux </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/github.svg"/>               Github </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/githubactions.svg"/>        Github Actions </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/circleci.svg"/>             Circle CI </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/rabbitmq.svg"/>             Rabbit MQ </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/apachekafka.svg"/>          Apache Kafka </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/go.svg"/>                   Go </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/c.svg"/>                    C </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/cplusplus.svg"/>            C++ </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/csharp.svg"/>               C# </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/javascript.svg"/>           Javascript </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/visualstudiocode.svg"/>     VS Code </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/githubactions.svg"/>        Github Actions </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/traefikproxy.svg"/>         Traefik </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/nomad.svg"/>                Nomad </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/terraform.svg"/>            Terraform </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/ansible.svg"/>              Ansible </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/d3dotjs.svg"/>              D3  </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/swagger.svg"/>              Swagger </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/k6.svg"/>                   K6 </div>
+  <div class="tile"><img src="https://simpleicons.org/icons/apache.svg"/>               Apache Benchmark </div>
 </div>
 
 
