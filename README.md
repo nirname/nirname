@@ -35,35 +35,35 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 ![Ruby](./ruby.svg#gh-light-mode-only)
  -->
 
-<img src="./icons/ruby.svg"             style="width: 50px; height: 50px;"/> Ruby             
-<img src="./icons/rubyonrails.svg"      style="width: 50px; height: 50px;"/> Ruby on Rails    
-<img src="./icons/javascript.svg"       style="width: 50px; height: 50px;"/> JavaScript       
-<img src="./icons/react.svg"            style="width: 50px; height: 50px;"/> React            
-<img src="./icons/git.svg"              style="width: 50px; height: 50px;"/> Git              
-<img src="./icons/docker.svg"           style="width: 50px; height: 50px;"/> Docker           
-<img src="./icons/postgresql.svg"       style="width: 50px; height: 50px;"/> Postgres         
-<img src="./icons/redis.svg"            style="width: 50px; height: 50px;"/> Redis            
-<img src="./icons/nginx.svg"            style="width: 50px; height: 50px;"/> NGinx            
-<img src="./icons/linux.svg"            style="width: 50px; height: 50px;"/> Linux            
-<img src="./icons/github.svg"           style="width: 50px; height: 50px;"/> Github           
-<img src="./icons/githubactions.svg"    style="width: 50px; height: 50px;"/> Github Actions   
-<img src="./icons/circleci.svg"         style="width: 50px; height: 50px;"/> Circle CI        
-<img src="./icons/rabbitmq.svg"         style="width: 30px; height: 50px;"/> Rabbit MQ        
-<img src="./icons/apachekafka.svg"      style="width: 50px; height: 50px;"/> Apache Kafka     
-<img src="./icons/go.svg"               style="width: 50px; height: 50px;"/> Go               
-<img src="./icons/c.svg"                style="width: 50px; height: 50px;"/> C                
-<img src="./icons/cplusplus.svg"        style="width: 50px; height: 50px;"/> C++              
-<img src="./icons/csharp.svg"           style="width: 50px; height: 50px;"/> C#               
-<img src="./icons/javascript.svg"       style="width: 50px; height: 50px;"/> Javascript       
-<img src="./icons/visualstudiocode.svg" style="width: 50px; height: 50px;"/> VS Code          
-<img src="./icons/githubactions.svg"    style="width: 50px; height: 50px;"/> Github Actions   
-<img src="./icons/traefikproxy.svg"     style="width: 50px; height: 50px;"/> Traefik          
-<img src="./icons/nomad.svg"            style="width: 50px; height: 50px;"/> Nomad            
-<img src="./icons/terraform.svg"        style="width: 50px; height: 50px;"/> Terraform        
-<img src="./icons/ansible.svg"          style="width: 50px; height: 50px;"/> Ansible          
-<img src="./icons/d3dotjs.svg"          style="width: 50px; height: 50px;"/> D3               
-<img src="./icons/swagger.svg"          style="width: 50px; height: 50px;"/> Swagger          
-<img src="./icons/k6.svg"               style="width: 50px; height: 50px;"/> K6               
-<img src="./icons/apache.svg"           style="width: 50px; height: 50px;"/> Apache Benchmark 
+<img src="./icons/ruby-color.svg"             style="width: 50px; height: 50px;"/> Ruby             
+<img src="./icons/rubyonrails-color.svg"      style="width: 50px; height: 50px;"/> Ruby on Rails    
+<img src="./icons/javascript-color.svg"       style="width: 50px; height: 50px;"/> JavaScript       
+<img src="./icons/react-color.svg"            style="width: 50px; height: 50px;"/> React            
+<img src="./icons/git-color.svg"              style="width: 50px; height: 50px;"/> Git              
+<img src="./icons/docker-color.svg"           style="width: 50px; height: 50px;"/> Docker           
+<img src="./icons/postgresql-color.svg"       style="width: 50px; height: 50px;"/> Postgres         
+<img src="./icons/redis-color.svg"            style="width: 50px; height: 50px;"/> Redis            
+<img src="./icons/nginx-color.svg"            style="width: 50px; height: 50px;"/> NGinx            
+<img src="./icons/linux-color.svg"            style="width: 50px; height: 50px;"/> Linux            
+<img src="./icons/github-color.svg"           style="width: 50px; height: 50px;"/> Github           
+<img src="./icons/githubactions-color.svg"    style="width: 50px; height: 50px;"/> Github Actions   
+<img src="./icons/circleci-color.svg"         style="width: 50px; height: 50px;"/> Circle CI        
+<img src="./icons/rabbitmq-color.svg"         style="width: 30px; height: 50px;"/> Rabbit MQ        
+<img src="./icons/apachekafka-color.svg"      style="width: 50px; height: 50px;"/> Apache Kafka     
+<img src="./icons/go-color.svg"               style="width: 50px; height: 50px;"/> Go               
+<img src="./icons/c-color.svg"                style="width: 50px; height: 50px;"/> C                
+<img src="./icons/cplusplus-color.svg"        style="width: 50px; height: 50px;"/> C++              
+<img src="./icons/csharp-color.svg"           style="width: 50px; height: 50px;"/> C#               
+<img src="./icons/javascript-color.svg"       style="width: 50px; height: 50px;"/> Javascript       
+<img src="./icons/visualstudiocode-color.svg" style="width: 50px; height: 50px;"/> VS Code          
+<img src="./icons/githubactions-color.svg"    style="width: 50px; height: 50px;"/> Github Actions   
+<img src="./icons/traefikproxy-color.svg"     style="width: 50px; height: 50px;"/> Traefik          
+<img src="./icons/nomad-color.svg"            style="width: 50px; height: 50px;"/> Nomad            
+<img src="./icons/terraform-color.svg"        style="width: 50px; height: 50px;"/> Terraform        
+<img src="./icons/ansible-color.svg"          style="width: 50px; height: 50px;"/> Ansible          
+<img src="./icons/d3dotjs-color.svg"          style="width: 50px; height: 50px;"/> D3               
+<img src="./icons/swagger-color.svg"          style="width: 50px; height: 50px;"/> Swagger          
+<img src="./icons/k6-color.svg"               style="width: 50px; height: 50px;"/> K6               
+<img src="./icons/apache-color.svg"           style="width: 50px; height: 50px;"/> Apache Benchmark 
 
 </div>
