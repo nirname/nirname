@@ -57,6 +57,43 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 
 <br>
 
-A also can do a little bit of **Fusion360**, **SketchUp**, **3dsMax**, **Unity**, **Graphviz**.
+**`Ruby on Rails`**,
+**`Ruby`**,
+**RSpec**,
+**JavaScript**,
+**React**,
+**Git**,
+**Docker**,
+**Postgres**,
+**Redis**,
+**NGinx**,
+**Linux**,
+**Github**,
+**Github Actions**,
+**Circle CI**,
+**Rabbit MQ**,
+**Apache Kafka**,
+**Go**,
+**C**,
+**C++**,
+**C#**,
+**Javascript**,
+**VS Code**,
+**Github Actions**,
+**Traefik**,
+**Nomad**,
+**Terraform**,
+**Ansible**,
+**D3**,
+**Swagger**,
+**K6**,
+**Apache Benchmark**.
+
+A also can do a little bit of
+**Fusion360**,
+**SketchUp**,
+**3dsMax**,
+**Unity**,
+**Graphviz**.
 
 <div>
