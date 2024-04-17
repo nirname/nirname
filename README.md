@@ -22,7 +22,9 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 
 ## Just ruby
 
-<img src="./ruby.svg" width="50" height="50"/> Ruby
+<img src="./ruby.svg" width="50" height="50"/>
+
+Ruby
 
 ## Skills
 
