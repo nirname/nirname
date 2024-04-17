@@ -1,3 +1,5 @@
+<div align="left">
+
 # My name is Nick
 
 <!-- [![](https://visitcount.itsvg.in/api?id=nirname&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
@@ -17,7 +19,6 @@ I also have some teaching experience, so you may ask me for **mentoring**.
 ![Computer_graphics](https://img.shields.io/badge/Computer_graphics-d62828?style=for-the-badge)
 
 Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)).
-
 
 ## Skills
 
@@ -57,3 +58,5 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 <br>
 
 A also can do a little bit of **Fusion360**, **SketchUp**, **3dsMax**, **Unity**, **Graphviz**.
+
+<div>
