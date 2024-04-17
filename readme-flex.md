@@ -28,6 +28,7 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 ## Skills
 
 <div class="skills" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center; gap: 20px;">
+<!-- <p align="left"> -->
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/ruby.svg"             width="50" height="50">  <div>Ruby             </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/rubyonrails.svg"      width="50" height="50">  <div>Ruby on Rails    </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/javascript.svg"       width="50" height="50">  <div>JavaScript       </div></div>
@@ -59,5 +60,6 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/k6.svg"               width="50" height="50">  <div>K6               </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/apache.svg"           width="50" height="50">  <div>Apache Benchmark </div></div>
 </div>
+<!-- </p> -->
 
 </div>
