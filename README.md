@@ -20,6 +20,9 @@ I also have some teaching experience, so you may ask me for **mentoring**.
 
 Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)).
 
+<img src"./ruby-color.svg#gh-dark-mode-only" width="100" height="100"/>
+<img src"./ruby.svg#gh-light-mode-only" width="100" height="100"/>
+
 ## Skills
 
 ![Ruby](./ruby-color.svg#gh-dark-mode-only)
