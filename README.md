@@ -24,6 +24,11 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 <img src="./ruby.svg#gh-dark-mode-only" width="100" height="100" style="filter: invert(1);"/>
 <img src="./ruby.svg#gh-light-mode-only" width="100" height="100"/>
 
+## Just ruby
+
+![Just Ruby](./ruby.svg)
+
+
 ## Skills
 
 ![Ruby](./ruby-color.svg#gh-dark-mode-only)
