@@ -4,19 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=125&color=249bb3&multiline=true&width=500&height=75&lines=Nice+to+meet+you.;I+have+been+programming+for+quite+a+time.;Feel+free+to+contact+me.)](https://git.io/typing-svg)
 
+I am a web developer with diverse experience.
+
+[Mermaid JS](https://github.com/mermaid-js/mermaid) contributor.
+
 Drop me a line if you are interested in collaboration and partnership.
 I can be a **developer**, a **team leader** or a **consultant**.
 I also have some teaching experience, so you may ask me for **mentoring**.
 
-## Current interests
-
-![Parsers_and_compilers](https://img.shields.io/badge/Parsers_and_compilers-003049?style=for-the-badge)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-8300c4?style=for-the-badge)
-![Websites](https://img.shields.io/badge/Websites-fcbf49?style=for-the-badge)
-![Data_visuzlization](https://img.shields.io/badge/Data_visuzlization-1cb08f?style=for-the-badge)
-![Computer_graphics](https://img.shields.io/badge/Computer_graphics-d62828?style=for-the-badge)
-
-[Mermaid JS](https://github.com/mermaid-js/mermaid) contributor.
+Drop me a line if you are interested in collaboration and partnership.
+I can be a **developer**, a **team leader** or a **consultant**.
+I also have some teaching experience, so you may ask me for **mentoring**.
 
 ## Skills
 
@@ -90,12 +88,16 @@ My main skills are:
 **`K6`**,
 **`Apache Benchmark`**.
 
-A also can do a little bit of
+## Current interests
+
+![Parsers_and_compilers](https://img.shields.io/badge/Parsers_and_compilers-003049?style=for-the-badge)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-8300c4?style=for-the-badge)
+![Websites](https://img.shields.io/badge/Websites-fcbf49?style=for-the-badge)
+![Data_visuzlization](https://img.shields.io/badge/Data_visuzlization-1cb08f?style=for-the-badge)
+![Computer_graphics](https://img.shields.io/badge/Computer_graphics-d62828?style=for-the-badge)
 
 **`Fusion360`**,
 **`SketchUp`**,
 **`3dsMax`**,
 **`Unity`**,
 **`Graphviz`**.
-
-
