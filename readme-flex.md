@@ -42,7 +42,7 @@ Recently I started contributing to open source ([mermaid-js](https://github.com/
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/github.svg"           width="50" height="50">  <div>Github           </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/githubactions.svg"    width="50" height="50">  <div>Github Actions   </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/circleci.svg"         width="50" height="50">  <div>Circle CI        </div></div>
-<div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/rabbitmq.svg"         width="30" height="50">  <div>Rabbit MQ        </div></div>
+<div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/rabbitmq.svg"         width="40" height="50">  <div>Rabbit MQ        </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/apachekafka.svg"      width="50" height="50">  <div>Apache Kafka     </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/go.svg"               width="50" height="50">  <div>Go               </div></div>
 <div width="80" height="80" margin="10"> <img src="https://simpleicons.org/icons/c.svg"                width="50" height="50">  <div>C                </div></div>

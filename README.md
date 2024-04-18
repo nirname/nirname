@@ -18,7 +18,7 @@ I also have some teaching experience, so you may ask me for **mentoring**.
 ![Data_visuzlization](https://img.shields.io/badge/Data_visuzlization-1cb08f?style=for-the-badge)
 ![Computer_graphics](https://img.shields.io/badge/Computer_graphics-d62828?style=for-the-badge)
 
-Recently I started contributing to open source ([mermaid-js](https://github.com/mermaid-js/mermaid)).
+[Mermaid JS](https://github.com/mermaid-js/mermaid) contributor.
 
 ## Skills
 
