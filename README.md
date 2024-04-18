@@ -1,10 +1,13 @@
-<div align="left">
-
-# My name is Nick
+---
+layout: page
+title: Bio
+---
 
 <!-- [![](https://visitcount.itsvg.in/api?id=nirname&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=125&color=249bb3&multiline=true&width=500&height=75&lines=Hello!+Nice+to+meet+you.;I+have+been+programming+for+quite+a+time.;Feel+free+to+contact+me.)](https://git.io/typing-svg)
+
+My name is Nick
 
 Drop me a line if you are interested in collaboration and partnership.
 I can be a **developer**, a **team leader** or a **consultant**.
@@ -22,6 +25,7 @@ I also have some teaching experience, so you may ask me for **mentoring**.
 
 ## Skills
 
+<div align="left">
 <img src="./icons/rubyonrails-color.svg"                    width="50" height="50" />
 <img src="./icons/ruby-color.svg"                           width="50" height="50" />
 <img src="./icons/rspec-color.svg"                          width="50" height="50" />
@@ -54,6 +58,7 @@ I also have some teaching experience, so you may ask me for **mentoring**.
 <img src="./icons/swagger-color.svg"                        width="50" height="50" />
 <img src="./icons/k6-color.svg"                             width="50" height="50" />
 <img src="./icons/apache-color.svg"                         width="50" height="50" />
+<div>
 
 <br>
 
@@ -98,4 +103,4 @@ A also can do a little bit of
 **`Unity`**,
 **`Graphviz`**.
 
-<div>
+
