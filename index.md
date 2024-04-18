@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bio
+---
+
 <!-- [![](https://visitcount.itsvg.in/api?id=nirname&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
 
 # Hi! My name is Nick
