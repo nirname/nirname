@@ -12,10 +12,6 @@ Drop me a line if you are interested in collaboration and partnership.
 I can be a **developer**, a **team leader** or a **consultant**.
 I also have some teaching experience, so you may ask me for **mentoring**.
 
-Drop me a line if you are interested in collaboration and partnership.
-I can be a **developer**, a **team leader** or a **consultant**.
-I also have some teaching experience, so you may ask me for **mentoring**.
-
 ## Skills
 
 <div align="left">
@@ -96,6 +92,7 @@ My main skills are:
 ![Data_visuzlization](https://img.shields.io/badge/Data_visuzlization-1cb08f?style=for-the-badge)
 ![Computer_graphics](https://img.shields.io/badge/Computer_graphics-d62828?style=for-the-badge)
 
+Can do a 
 **`Fusion360`**,
 **`SketchUp`**,
 **`3dsMax`**,
