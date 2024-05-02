@@ -92,7 +92,7 @@ My main skills are:
 ![Data_visuzlization](https://img.shields.io/badge/Data_visuzlization-1cb08f?style=for-the-badge)
 ![Computer_graphics](https://img.shields.io/badge/Computer_graphics-d62828?style=for-the-badge)
 
-Can do a 
+Can do a little bit of
 **`Fusion360`**,
 **`SketchUp`**,
 **`3dsMax`**,
